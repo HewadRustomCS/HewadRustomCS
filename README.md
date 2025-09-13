@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hewad Rustom</h1>
-<h3 align="center">Computer Science Student @ University of Liverpool | Software Engineering & AI | Python • Java • Data Structures • Algorithms</h3>
+<h3 align="center">Aspiring Software Engineer | Python • Java • Data Analysis • AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hewadrustomcs&label=Profile%20views&color=0e75b6&style=flat" alt="hewadrustomcs" />
@@ -8,51 +8,51 @@
 ---
 
 ### 🚀 About Me  
-
-- 🎓 Currently studying **BSc Computer Science with Software Engineering & AI** at the University of Liverpool  
-- 🔭 Working on **academic projects in Python, Java, data structures, algorithms, and system design**  
-- 🌱 Learning **Software Design, System Development, and AI applications**  
-- 👯 Open to collaborating on **open-source projects** in **AI, software engineering, and web development**  
-- 💬 Ask me about **Computer Science foundations, programming in Python & Java, algorithms, and AI applications**  
-- 📫 Reach me at **hewadrustom@gmail.com**  
+- 🎓 Computer Science student at the **University of Liverpool**, specializing in **Software Engineering & AI**  
+- 🛠 Skilled in **Python, Java, Data Structures & Algorithms**  
+- 🌱 Interested in **AI applications, backend development, and automation**  
+- 👯 Open to collaborating on **open-source projects** in AI, software engineering, or data science  
+- 📫 Contact me at **hewadrustom@gmail.com**  
 
 ---
 
-### 🛠️ Skills  
+### 🛠️ Tech Skills  
 
 - **Programming:** Python, Java, Data Structures & Algorithms  
-- **IT Tools:** Microsoft Office, CRM Systems, Data Entry & Management  
-- **Core Strengths:** Communication, Problem-Solving, Teamwork, Time Management  
+- **Libraries & Tools:** Flask, Pandas, Matplotlib, scikit-learn, Git, GitHub  
+- **Other IT Tools:** Microsoft Office, CRM Systems, Data Entry & Management  
+- **Soft Skills:** Communication, Teamwork, Problem-Solving, Time Management  
 - **Languages:** English (Fluent), Pashto (Fluent), Dari (Fluent)  
+
+---
+
+### 📂 Featured Projects  
+
+- 🔹 [Flask To-Do List Web App](https://github.com/HewadRustomCS/Flask-To-Do-List-Web-App)  
+- 🔹 [Exam Performance Prediction (ML)](https://github.com/HewadRustomCS/exam-performance-prediction)  
+- 🔹 [File Organizer CLI](https://github.com/HewadRustomCS/file-organizer-cli)  
+- 🔹 [Password Manager CLI](https://github.com/HewadRustomCS/password-manager-cli)  
+- 🔹 [Weather CLI](https://github.com/HewadRustomCS/weather-cli)  
+- 🔹 [Student Grades Data Analysis (Python + Pandas + Matplotlib)](https://github.com/HewadRustomCS/Student-Grades-Data-Analysis-Python-Pandas-Matplotlib-)  
 
 ---
 
 ### 💼 Professional Experience  
 
 - **Sales Representative – Safestyle UK (2025–Present)**  
-  Achieved monthly sales targets and built client relationships across the North West.  
+  *Consistently exceeded monthly sales targets by 15%+.*  
 
 - **Student Finance Officer – City of Liverpool College (2024)**  
-  Assisted 100+ students, improving accuracy of financial assessments by 20%.  
+  *Improved accuracy of student finance assessments by 20%.*  
 
 - **Administrator – City of Liverpool College (2023–2024)**  
-  Directed 500+ visitors, maintained records with 99% efficiency.  
+  *Directed 500+ visitors and maintained records with 99% efficiency.*  
 
 - **Data Entry Clerk – University of Liverpool (2022)**  
-  Processed 1,500+ records with 98% accuracy.  
+  *Processed 1,500+ records with 98% accuracy.*  
 
 - **Freelance Interpreter (2021–Present)**  
-  Delivered 200+ sessions with cultural sensitivity and confidentiality.  
-
----
-
-### 📂 Featured Projects  
-
-- 🔹 [Caesar Cipher in Java](#)  
-- 🔹 [Data Structures & Algorithms Coursework](#)  
-- 🔹 [Python Projects](#)  
-
-*(More projects coming soon!)*  
+  *Delivered 200+ sessions with cultural sensitivity and confidentiality.*  
 
 ---
 
@@ -77,4 +77,4 @@
 
 ---
 
-⚡ **Fun fact:** I think I am funny 😅  
+⚡ **Fun fact:** I enjoy solving coding problems the same way I enjoy solving real-life ones — step by step! 😅  
